@@ -1,0 +1,37 @@
+body {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+#planta {
+	position: relative;
+	width: 623px;
+	height: 600px;
+	background-image: url('../img/planta.jpg');
+	float: right;
+}
+
+#pesquisa {
+	width: 500px;
+	float: left;
+}
+
+#pesquisar{background-color: #566c73;color: #fff;border:2px solid #566c73;padding: 7px 15px;font-weight: bold;}
+#pesquisar:hover {background-color: white;color: #566c73;border:2px solid #566c73;cursor: pointer;}
+
+#imagem1 {position: absolute;left:131px;bottom: 252px;}
+#imagem2 {position: absolute;left:131px;bottom: 195px;}
+#imagem3 {position: absolute;left:131px;bottom: 139px;}
+#imagem4 {position: absolute;left:183px;bottom: 283px;}
+#imagem5 {position: absolute;left:183px;bottom: 223px;}
+#imagem6 {position: absolute;left:183px;bottom: 162px;}
+#imagem7 {position: absolute;left:232px;bottom: 307px;}
+#imagem8 {position: absolute;left:232px;bottom: 252px;}
+#imagem9 {position: absolute;left:232px;bottom: 195px;}
+#imagem10 {position: absolute;left:232px;bottom: 139px;}
+#imagem11 {position: absolute;left:284px;bottom: 283px;}
+#imagem12 {position: absolute;left:339px;bottom: 283px;}
+#imagem13 {position: absolute;left:392px;bottom: 303px;}
+#imagem14 {position: absolute;left:392px;bottom: 252px;}
+
+.help-block {color: red !important;}
